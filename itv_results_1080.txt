@@ -1,2 +1,2 @@
-山西卫视,http://171.8.138.153:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0,1.096 MB/s
-新疆卫视,http://171.8.138.169:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0,1.151 MB/s
+山西卫视,http://171.8.138.169:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0,1.144 MB/s
+新疆卫视,http://171.8.138.153:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0,1.149 MB/s
