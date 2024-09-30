@@ -1,0 +1,5 @@
+CCTV13,http://123.163.114.89:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0,2.106 MB/s
+CCTV14,http://123.163.114.89:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0,2.142 MB/s
+山西卫视,http://123.163.114.89:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0,1.570 MB/s
+山西卫视,http://123.163.114.118:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0,1.214 MB/s
+新疆卫视,http://123.163.114.89:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0,1.146 MB/s
