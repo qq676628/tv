@@ -1,0 +1,4 @@
+CCTV2,http://171.8.138.74:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0,2.116 MB/s
+CCTV3,http://171.8.138.74:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0,2.115 MB/s
+CCTV12,http://111.225.114.32:808/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0,2.038 MB/s
+新疆卫视,http://171.8.138.74:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0,1.174 MB/s
